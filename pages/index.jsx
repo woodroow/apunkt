@@ -7,7 +7,7 @@ export default () => (
   <div>
     <Head>
       <link rel='shortcut icon' type='image/x-icon' href={favicon} />
-      <title>a&apos;punkt.d</title>
+      <title>a&apos;punkt.</title>
     </Head>
     <Cover />
   </div>

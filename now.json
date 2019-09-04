@@ -1,7 +1,6 @@
 {
     "name": "apunkt",
     "version": 2,
-    "alias": "apunkt.veshkurov.pro",
     "builds": [
         { "src": "package.json", "use": "@now/static-build" }
     ]
