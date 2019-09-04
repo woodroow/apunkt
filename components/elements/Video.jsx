@@ -22,7 +22,7 @@ const Video = styled.iframe`
 export default () => (
   <Video
     title='live'
-    src='//vk.com/video_ext.php?oid=-22186156&id=456239617&hash=dfc9ce404aae4243&hd=1'
+    src='//vk.com/video_ext.php?oid=-28233435&id=456239290&hash=bab15bb3f64925d0&hd=1'
     width='640'
     height='360'
     frameborder='0'
