@@ -1,0 +1,8 @@
+{
+    "name": "landing-page-2019",
+    "version": 2,
+    "alias": "2019.veshkurov.pro",
+    "builds": [
+        { "src": "package.json", "use": "@now/static-build" }
+    ]
+}
