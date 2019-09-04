@@ -1,7 +1,7 @@
 {
-    "name": "landing-page-2019",
+    "name": "apunkt",
     "version": 2,
-    "alias": "2019.veshkurov.pro",
+    "alias": "apunkt.veshkurov.pro",
     "builds": [
         { "src": "package.json", "use": "@now/static-build" }
     ]
