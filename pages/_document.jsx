@@ -22,12 +22,8 @@ export default class MyDocument extends Document {
     return (
       <html lang='en-US'>
         <Head>    
-          <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic"
-            rel="stylesheet"
-          />
           <meta name="viewport" content="width=device-width, initial-scale=1"/>
-          <style>{"body { background-color: #3c485e;font-family: Open Sans, sans-serif;font-weight: 400; margin: 0;}"}</style>
+          <style>{"body { background-color: #3c485e; margin: 0;}"}</style>
           {/* Step 5: Output the styles in the head  */}
           {this.props.styleTags}
         </Head>

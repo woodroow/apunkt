@@ -1,6 +1,7 @@
 {
     "name": "apunkt",
     "version": 2,
+    "alias": "apunkt.ru",
     "builds": [
         { "src": "package.json", "use": "@now/static-build" }
     ]

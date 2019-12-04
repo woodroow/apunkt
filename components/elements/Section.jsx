@@ -1,6 +1,5 @@
 import React, { type Node } from 'react';
 import styled, { css } from 'styled-components';
-import background from '../../assets/images/background.jpg';
 import { lightColor } from '../../theme/colors';
 
 type Props = {
@@ -27,8 +26,8 @@ const Section = styled.div`
     min-height: 100vh;
   `}
   ${props => props.main && css`
-    background-image: linear-gradient(180deg, #3c485ed9, hsla(218.8235294117647, 22.08%, 30.20%, 0.85)), url(${background});
     background-position: 0px 0px, 0px 0px;
+    background-color: black;
     background-size: auto, cover;`}
 `;
 

@@ -22,9 +22,9 @@ const Video = styled.iframe`
 export default () => (
   <Video
     title='live'
-    src='//vk.com/video_ext.php?oid=-28233435&id=456239290&hash=bab15bb3f64925d0&hd=1'
-    width='640'
-    height='360'
+    src='https://embed.restream.io/player/index.html?token=2512d6be3a260e441bd661954a922ff8'
+    width='960'
+    height='576'
     frameborder='0'
     allowfullscreen
   />
